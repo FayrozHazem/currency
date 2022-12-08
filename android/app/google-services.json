@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "315291236075",
+    "project_id": "fayrouz-c347e",
+    "storage_bucket": "fayrouz-c347e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:315291236075:android:5f762eb8d3833bbc5d30ae",
+        "android_client_info": {
+          "package_name": "com.example.fayrouz_currency"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "315291236075-058qi2qcvqg92ivd667nr06r1vrhoifr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWHgpSAqPA6Owha-DTORR8U6Jd1lpO7pk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "315291236075-058qi2qcvqg92ivd667nr06r1vrhoifr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
